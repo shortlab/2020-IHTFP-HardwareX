@@ -1,4 +1,4 @@
-# High-resolution optical profilometer
+# High-resolution optical profilometer mount & post-processing
 
 - **CAD**: Contains drawings used to 3D print an profilometer mount for the Nanovea PS-50
 - *pfm_post.m*: Script to read raw profilometer data, generate plots and remove gradients
